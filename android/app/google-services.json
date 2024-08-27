@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1046961727701",
+    "project_id": "borrowfriend-9163f",
+    "storage_bucket": "borrowfriend-9163f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1046961727701:android:96d601bf58c623256e9a5c",
+        "android_client_info": {
+          "package_name": "pl.tstepnik.borrow_friend"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1046961727701-ieje1a3hjvcuqv6qllol5lte1asfugim.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pl.tstepnik.borrow_friend",
+            "certificate_hash": "9f64b07d350e79e6b2e1b5ff63f6254462ce1c37"
+          }
+        },
+        {
+          "client_id": "1046961727701-662d2018d7lp3v3ato8ch3l9r8mr38kb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjftV8liZ3Gxaz8d6v7EaBKK1kJEdiNks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1046961727701-662d2018d7lp3v3ato8ch3l9r8mr38kb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1046961727701-luqamegee6vkcvcseeep72503j34jvj8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.borrowFriend"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
